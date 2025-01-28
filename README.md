@@ -29,7 +29,7 @@ This project is a Streamlit-based dashboard that enables users to post job descr
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/social-media-posting-dashboard.git
+   git clone https://github.com/Venkat-ihub/Social-media-HR.git
    cd social-media-posting-dashboard
 ### Install Dependencies
 ```bash
